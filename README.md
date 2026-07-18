@@ -1,4 +1,4 @@
-# Fast Food Sales Analysis
+<img width="496" height="46" alt="image" src="https://github.com/user-attachments/assets/228eb923-d126-43ad-aa11-bc4682ca6d80" /># Fast Food Sales Analysis
 
 ### Project Overview
 
@@ -31,9 +31,24 @@ EDA involves exploring the sales data to answer key questions, such as:
 
 ### Key Findings
 
-Evening periods experienced the highest customer traffic.
-Dine-in orders has the highest profit margin compared to delivery orders and Takeaway orders.
-Long Wait times Reduced Customer Satisfaction.
-Some Popular Products like Shawarma, Smoothie, and Ice Cream Were Less Profitable.
+1. Fast Food is the best performing category in terms of revenue and profit
+2. Evening periods experienced the highest customer traffic.
+3. Dine-in orders has the highest profit margin compared to delivery orders and Takeaway orders.
+4. Long Wait times Reduced Customer Satisfaction.
+5. Some Popular Products like Shawarma, Smoothie, and Ice Cream Were Less Profitable.
 
+### Recommendations
 
+Based on the analysis, we recommend the following actions:
+1. Reduce Wait Time
+   - Increase evening staff
+   - improve kitchen workflow
+2. Improve Menu Profitability
+   - Increase price slightly on low-margin products
+   - Promote high-profit meals 
+3. Increase Customer Retention
+   - Introduce loyalty rewards
+   - Improve delivery efficiency
+  
+### Limitations
+I had to clean product and Category fields which had inconsistency, misspelt values and leading spaces and  outlier in the quantity field replaced with median value because they have affected the accuracy of the analysis
