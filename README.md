@@ -42,11 +42,20 @@ EDA involves exploring the sales data to answer key questions, such as:
 
 ### Data Analysis/Key Findings
 
-1. Fast Food is the best performing category in terms of revenue and profit
-2. Evening periods experienced the highest customer traffic.
-3. Dine-in orders has the highest profit margin compared to delivery orders and Takeaway orders.
-4. Long Wait times Reduced Customer Satisfaction.
-5. Some Popular Products like Shawarma, Smoothie, and Ice Cream Were Less Profitable.
+1. Fast Food is the best performing categories in terms of revenue and profit (39%) while Desserts best in terms profit 54%).
+  - Fast Food contributed 39% of Revenue but lowest margin. Desserts being the lowest in revenue generation, had 54% margin.
+3. Evening periods experienced the highest customer traffic.
+   - 51% of total revenue came from evenng transactions
+5. Dine-in orders has the highest profit margin compared to delivery orders and Takeaway orders.
+  - Reasons:
+    - Delivery fees
+    - Packaging costs
+    - Discounts
+
+7. Long Wait times Reduced Customer Satisfaction.
+   - Average waiting above 21 minutes caused poor ratings
+8. Some Popular Products like Shawarma, Smoothie, and Ice Cream Were Less Profitable.
+   - High ingredients costs reduced profit margins
 
 ### Recommendations
 
