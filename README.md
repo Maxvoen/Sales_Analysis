@@ -2,6 +2,16 @@
 
 ### Table of contents
 
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data CleaningPreparation](#data-cleaningpreparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis/Key Findings](#data-analysiskey-findings)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+
+
 
 ### Project Overview
 
@@ -30,9 +40,7 @@ EDA involves exploring the sales data to answer key questions, such as:
  - Which products are most profitable?
  - What are the peak sales periods?
 
-### Data Analysis
-
-### Key Findings
+### Data Analysis/Key Findings
 
 1. Fast Food is the best performing category in terms of revenue and profit
 2. Evening periods experienced the highest customer traffic.
@@ -54,4 +62,4 @@ Based on the analysis, we recommend the following actions:
    - Improve delivery efficiency
   
 ### Limitations
-I had to clean product and Category fields which had inconsistency, misspelt values and leading spaces and  outlier in the quantity field replaced with median value because they have affected the accuracy of the analysis
+I had to clean product and Category fields which had inconsistency, misspelt values and leading spaces and  outlier in the quantity field replaced with median value because they have affected the accuracy of the analysis.
