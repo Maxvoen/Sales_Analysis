@@ -42,8 +42,8 @@ EDA involves exploring the sales data to answer key questions, such as:
 
 ### Data Analysis/Key Findings
 
-1. Fast Food is the best performing categories in terms of revenue and profit (39%) while Desserts best in terms profit 54%).
-  - Fast Food contributed 39% of Revenue but lowest margin. Desserts being the lowest in revenue generation, had 54% margin.
+1. Fast Food is the best performing categories in terms of revenue and profit.
+   - Fast Food contributed 39% of Revenue but lowest margin. Desserts being the lowest in revenue generation, had 54% margin.
 3. Evening periods experienced the highest customer traffic.
    - 51% of total revenue came from evenng transactions
 5. Dine-in orders has the highest profit margin compared to delivery orders and Takeaway orders.
