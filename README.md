@@ -1,4 +1,7 @@
-<img width="496" height="46" alt="image" src="https://github.com/user-attachments/assets/228eb923-d126-43ad-aa11-bc4682ca6d80" /># Fast Food Sales Analysis
+# Sales Analysis
+
+### Table of contents
+
 
 ### Project Overview
 
