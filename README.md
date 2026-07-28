@@ -17,6 +17,11 @@
 
 This data analysis project aims identifying peak sales periods, determining top-performing products, evaluating profitability drivers, and recommending operational improvements.
 
+<img width="634" height="354" alt="Fast Food Dashbaord" src="https://github.com/user-attachments/assets/2b47b50d-2b76-4db3-ae37-40d06f88e9f8" />
+
+
+
+
 ### Data Sources
 
 Sales Data: The Primary dataset used for this analysis is the "restaurant_sales_data.xlsx" file, containing detailed information about each sale made by the company
